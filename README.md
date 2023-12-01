@@ -27,7 +27,7 @@ Cada módulo tiene su propia lógica de negocio y se comunica con otros servicio
 El servicio de Pokémon proporciona las siguientes API REST:
 
 - **Obtener todos los Pokémon:**
-  - **Endpoint:** `/pokemones`
+  - **Endpoint:** `/pokemon`
   - **Método:** `GET`
   - **Descripción:** Obtiene la lista completa de Pokémon.
 
